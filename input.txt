@@ -1,0 +1,5 @@
+273836 Edsger Dijkstra 93000
+493570 Leslie Lamport 63000
+518364 Vint Cerf 85000
+998447 Barbara Liskov 75000
+518475 Alfred Dijkstra 75000
